@@ -1,0 +1,12 @@
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/bin/Debug/netcoreapp3.1/Calculator.deps.json
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.json
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/bin/Debug/netcoreapp3.1/Calculator.runtimeconfig.dev.json
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/bin/Debug/netcoreapp3.1/Calculator.dll
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/bin/Debug/netcoreapp3.1/Calculator.pdb
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/obj/Debug/netcoreapp3.1/Calculator.csprojAssemblyReference.cache
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfoInputs.cache
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/obj/Debug/netcoreapp3.1/Calculator.AssemblyInfo.cs
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/obj/Debug/netcoreapp3.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/obj/Debug/netcoreapp3.1/Calculator.dll
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/obj/Debug/netcoreapp3.1/Calculator.pdb
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/obj/Debug/netcoreapp3.1/Calculator.genruntimeconfig.cache
