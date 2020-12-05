@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wCL5AYj+6Lggrd1xuseAyqa7huiHZFcJJQQooB1k/GKlnC3dsKKILFURgIxW+3aIertuRMHe+MxMQXEdS1M8QQ==",
+  "dgSpecHash": "yY3VQDbGXDrcs4Depn1YGJDRKE5Iad/06d7uhpLgLegZ+T1ae7ThSr+aY5Ldr99+uNvHMJhUJtuzft4Z5M7Y0w==",
   "success": true,
-  "projectFilePath": "/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/Calculator.csproj",
+  "projectFilePath": "/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/calculator/calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

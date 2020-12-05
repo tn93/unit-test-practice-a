@@ -94,3 +94,5 @@
 /Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/Calculator-test/obj/Debug/netcoreapp3.1/Calculator-test.dll
 /Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/Calculator-test/obj/Debug/netcoreapp3.1/Calculator-test.pdb
 /Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/Calculator-test/obj/Debug/netcoreapp3.1/Calculator-test.genruntimeconfig.cache
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/Calculator-test/bin/Debug/netcoreapp3.1/calculator.dll
+/Users/tahermn/Documents/GitHub/TillyPay/Unit-Testing/unit-test-practice-a/Calculator-test/bin/Debug/netcoreapp3.1/calculator.pdb
